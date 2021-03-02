@@ -1,0 +1,7 @@
+# this repository requires following 
+# packages to be installed.
+jupyter
+jupyterlab
+
+numpy
+pandas
