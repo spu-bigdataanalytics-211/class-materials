@@ -48,7 +48,7 @@ Environment is a container for your application to run isolated with safely and 
 Make sure you have python installed on your system.
 
 ```
-python --version
+python --version; pip --version
 ```
 
 To create a virtual environment, you need a virtual environment manager. By default, python comes up with [venv](https://docs.python.org/3/library/venv.html) module. There are more modules like [virtualenv](https://virtualenv.pypa.io/en/latest/), etc.
