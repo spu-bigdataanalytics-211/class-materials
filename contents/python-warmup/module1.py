@@ -1,8 +1,8 @@
 from pathlib import Path
 
-PERSON1 = {​'name': 'John', ​
-           'age': 36, ​
-           'country': 'Norway'​}
+PERSON1 = {'name': 'John', 
+           'age': 36, 
+           'country': 'Norway'}
 
 
 def greeting(name):

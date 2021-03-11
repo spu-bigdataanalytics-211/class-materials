@@ -1,4 +1,4 @@
-from . import module1
+import module1
 
 
 if __name__ == '__main__':
