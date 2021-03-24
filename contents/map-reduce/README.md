@@ -1,5 +1,9 @@
 # Introduction to MapReduce Algorithm
 
+### Introduction
+
+This repo is the sample illustration for teaching big data analytics. Here, one of the key concepts of big data analytics, the MapReduce algorithm is explained in detail.
+
 The challanges of working a dataset that is larger than your computer RAM brings some serious problems that you may not able to solve, unless you use parallel programming, or big data algorithms. 
 
 [MapReduce](https://research.google/pubs/pub62/) is one of those algorithms to help you overcome problems.
@@ -59,3 +63,7 @@ As a result, all <key, sorted(value)> pairs are returned back to <key, value> pa
 
 <sup><sub>Images are from [an article at JournalDev](https://www.journaldev.com/8848/mapreduce-algorithm-example).</sup></sub>
 <sup><sub>MapReduce introductory is from [Ravi Sharma's answer at Quora](https://www.quora.com/What-is-Map-Reduce/answer/Ravi-Sharma-3187/).</sup></sub>
+
+### References
+
+NYU Teaching. [Big Data with PySpark] (https://nyu-cds.github.io/python-bigdata/)
